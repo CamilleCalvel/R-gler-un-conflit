@@ -1,1 +1,1 @@
-# R-gler-un-conflit
+# Regler-un-conflit
